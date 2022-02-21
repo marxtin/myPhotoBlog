@@ -1,13 +1,21 @@
 {
   "files": {
     "main.css": "/myPhotoBlog/static/css/main.fb35d48d.css",
-    "main.js": "/myPhotoBlog/static/js/main.79cb9a2a.js",
+    "main.js": "/myPhotoBlog/static/js/main.fed3f906.js",
+    "static/media/B2.JPG": "/myPhotoBlog/static/media/B2.b71213416d4500026f87.JPG",
+    "static/media/B10.jpg": "/myPhotoBlog/static/media/B10.1b1cca9e255e95acf79e.jpg",
     "static/media/A2.jpg": "/myPhotoBlog/static/media/A2.0584b2c35021581ca5f7.jpg",
     "static/media/10512710191.jpg": "/myPhotoBlog/static/media/10512710191.307b7db2dbb788eb87cb.jpg",
+    "static/media/B11.jpg": "/myPhotoBlog/static/media/B11.4fb100933b1e14ebdf3f.jpg",
+    "static/media/B7.jpg": "/myPhotoBlog/static/media/B7.f0ca246db840953c5e0d.jpg",
     "static/media/A1.jpg": "/myPhotoBlog/static/media/A1.3bdcda5002901cf802fd.jpg",
     "static/media/1061081011541.jpg": "/myPhotoBlog/static/media/1061081011541.f266be77b7212c125f1f.jpg",
+    "static/media/B9.jpg": "/myPhotoBlog/static/media/B9.bbf350998dcdf4c9111a.jpg",
+    "static/media/B8.jpg": "/myPhotoBlog/static/media/B8.9631b487203b99655f2a.jpg",
+    "static/media/B3.jpg": "/myPhotoBlog/static/media/B3.492a7ae9fb1e5e7a1242.jpg",
     "static/media/A5.jpg": "/myPhotoBlog/static/media/A5.13d7da05d7dd272d0ba8.jpg",
     "static/media/A10.jpg": "/myPhotoBlog/static/media/A10.ef41e4fab893941bb4eb.jpg",
+    "static/media/B1.jpg": "/myPhotoBlog/static/media/B1.533cb1efd0e1d137f4ef.jpg",
     "static/media/A3.jpg": "/myPhotoBlog/static/media/A3.52f97db7c9753f1a2e04.jpg",
     "static/media/105301249.jpg": "/myPhotoBlog/static/media/105301249.c3be749d49eb20e3066c.jpg",
     "static/media/1053012949.jpg": "/myPhotoBlog/static/media/1053012949.2dbf38e76b60388eaca4.jpg",
@@ -22,6 +30,7 @@
     "static/media/1198.jpg": "/myPhotoBlog/static/media/1198.7e08e862814e2c5b43c8.jpg",
     "static/media/A9.jpg": "/myPhotoBlog/static/media/A9.4a5cd41f2beaac423b1c.jpg",
     "static/media/105301245.jpg": "/myPhotoBlog/static/media/105301245.49ebed9eaf87333ff33f.jpg",
+    "static/media/B5.jpg": "/myPhotoBlog/static/media/B5.688dd9304db8773c7f74.jpg",
     "static/media/A6.jpg": "/myPhotoBlog/static/media/A6.c7269ede6ee58579acb2.jpg",
     "static/media/1190.jpg": "/myPhotoBlog/static/media/1190.6ab09c48397f4f95e07a.jpg",
     "static/media/7642.jpg": "/myPhotoBlog/static/media/7642.0967197973d8f0ac3d54.jpg",
@@ -29,7 +38,9 @@
     "static/media/3636.jpg": "/myPhotoBlog/static/media/3636.492fea9c4c436cd54bd8.jpg",
     "static/media/707.jpg": "/myPhotoBlog/static/media/707.7b15bb5114e0845cb1a2.jpg",
     "static/media/666.jpg": "/myPhotoBlog/static/media/666.881fc1e38287fbfa547b.jpg",
+    "static/media/B6.jpg": "/myPhotoBlog/static/media/B6.4001380d4f69ac7f2d0f.jpg",
     "static/media/114.jpg": "/myPhotoBlog/static/media/114.dba17f7372279be46f63.jpg",
+    "static/media/B4.jpg": "/myPhotoBlog/static/media/B4.8cb0688f0d780caa1d72.jpg",
     "static/media/651.jpg": "/myPhotoBlog/static/media/651.88b2ad6423e2e73c2d23.jpg",
     "static/media/654.jpg": "/myPhotoBlog/static/media/654.5f245fca7b06e3ef01a7.jpg",
     "static/media/223.jpg": "/myPhotoBlog/static/media/223.0597785d69581014c158.jpg",
@@ -55,10 +66,10 @@
     "static/media/Staatliches-Regular.woff2": "/myPhotoBlog/static/media/Staatliches-Regular.de54392f4e09c394d0a7.woff2",
     "index.html": "/myPhotoBlog/index.html",
     "main.fb35d48d.css.map": "/myPhotoBlog/static/css/main.fb35d48d.css.map",
-    "main.79cb9a2a.js.map": "/myPhotoBlog/static/js/main.79cb9a2a.js.map"
+    "main.fed3f906.js.map": "/myPhotoBlog/static/js/main.fed3f906.js.map"
   },
   "entrypoints": [
     "static/css/main.fb35d48d.css",
-    "static/js/main.79cb9a2a.js"
+    "static/js/main.fed3f906.js"
   ]
 }
