@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPhotoBlog/static/css/main.fb35d48d.css",
-    "main.js": "/myPhotoBlog/static/js/main.f39b5492.js",
+    "main.js": "/myPhotoBlog/static/js/main.79cb9a2a.js",
     "static/media/A2.jpg": "/myPhotoBlog/static/media/A2.0584b2c35021581ca5f7.jpg",
     "static/media/10512710191.jpg": "/myPhotoBlog/static/media/10512710191.307b7db2dbb788eb87cb.jpg",
     "static/media/A1.jpg": "/myPhotoBlog/static/media/A1.3bdcda5002901cf802fd.jpg",
@@ -55,10 +55,10 @@
     "static/media/Staatliches-Regular.woff2": "/myPhotoBlog/static/media/Staatliches-Regular.de54392f4e09c394d0a7.woff2",
     "index.html": "/myPhotoBlog/index.html",
     "main.fb35d48d.css.map": "/myPhotoBlog/static/css/main.fb35d48d.css.map",
-    "main.f39b5492.js.map": "/myPhotoBlog/static/js/main.f39b5492.js.map"
+    "main.79cb9a2a.js.map": "/myPhotoBlog/static/js/main.79cb9a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.fb35d48d.css",
-    "static/js/main.f39b5492.js"
+    "static/js/main.79cb9a2a.js"
   ]
 }
