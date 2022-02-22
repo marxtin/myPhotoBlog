@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPhotoBlog/static/css/main.fb35d48d.css",
-    "main.js": "/myPhotoBlog/static/js/main.ad7732af.js",
+    "main.js": "/myPhotoBlog/static/js/main.094d19ba.js",
     "static/media/B2.JPG": "/myPhotoBlog/static/media/B2.b71213416d4500026f87.JPG",
     "static/media/B10.jpg": "/myPhotoBlog/static/media/B10.1b1cca9e255e95acf79e.jpg",
     "static/media/A2.jpg": "/myPhotoBlog/static/media/A2.0584b2c35021581ca5f7.jpg",
@@ -63,13 +63,15 @@
     "static/media/2753.jpg": "/myPhotoBlog/static/media/2753.865791b7dec5c196ee6c.jpg",
     "static/media/Bungee-Regular.woff2": "/myPhotoBlog/static/media/Bungee-Regular.000fb77ffd3634f8e72c.woff2",
     "static/media/Staatliches-Regular.woff": "/myPhotoBlog/static/media/Staatliches-Regular.b8514647555dccf950f4.woff",
+    "static/media/TurretRoad-Bold.woff": "/myPhotoBlog/static/media/TurretRoad-Bold.a4302aef616ead529021.woff",
     "static/media/Staatliches-Regular.woff2": "/myPhotoBlog/static/media/Staatliches-Regular.de54392f4e09c394d0a7.woff2",
+    "static/media/TurretRoad-Bold.woff2": "/myPhotoBlog/static/media/TurretRoad-Bold.e83708b5c74060c4d5ac.woff2",
     "index.html": "/myPhotoBlog/index.html",
     "main.fb35d48d.css.map": "/myPhotoBlog/static/css/main.fb35d48d.css.map",
-    "main.ad7732af.js.map": "/myPhotoBlog/static/js/main.ad7732af.js.map"
+    "main.094d19ba.js.map": "/myPhotoBlog/static/js/main.094d19ba.js.map"
   },
   "entrypoints": [
     "static/css/main.fb35d48d.css",
-    "static/js/main.ad7732af.js"
+    "static/js/main.094d19ba.js"
   ]
 }
