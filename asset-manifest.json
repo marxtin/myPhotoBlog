@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myPhotoBlog/static/css/main.fb35d48d.css",
-    "main.js": "/myPhotoBlog/static/js/main.094d19ba.js",
+    "main.js": "/myPhotoBlog/static/js/main.d7876b5b.js",
     "static/media/B2.JPG": "/myPhotoBlog/static/media/B2.b71213416d4500026f87.JPG",
     "static/media/B10.jpg": "/myPhotoBlog/static/media/B10.1b1cca9e255e95acf79e.jpg",
     "static/media/A2.jpg": "/myPhotoBlog/static/media/A2.0584b2c35021581ca5f7.jpg",
@@ -68,10 +68,10 @@
     "static/media/TurretRoad-Bold.woff2": "/myPhotoBlog/static/media/TurretRoad-Bold.e83708b5c74060c4d5ac.woff2",
     "index.html": "/myPhotoBlog/index.html",
     "main.fb35d48d.css.map": "/myPhotoBlog/static/css/main.fb35d48d.css.map",
-    "main.094d19ba.js.map": "/myPhotoBlog/static/js/main.094d19ba.js.map"
+    "main.d7876b5b.js.map": "/myPhotoBlog/static/js/main.d7876b5b.js.map"
   },
   "entrypoints": [
     "static/css/main.fb35d48d.css",
-    "static/js/main.094d19ba.js"
+    "static/js/main.d7876b5b.js"
   ]
 }
